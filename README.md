@@ -1,2 +1,6 @@
-# rvcpu_pipelined
-A RISC-V 5-stage Pipelined CPU 
+# A RISC-V 5-stage Pipelined CPU
+
+## Includes Hazard Detection and Data Forwarding
+
+
+
